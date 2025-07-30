@@ -11,7 +11,7 @@ LAYOUT_FOLDER = "floor_layouts"
 DATA_FOLDER = "floor_data"
 FLOORS = {
     "Basement": "basement",
-    "Ground Floor": "ground",
+    "Ground Floor CN-4": "ground",
     "1st Floor": "floor_1",
     "2nd Floor": "floor_2",
     "3rd Floor": "floor_3",
