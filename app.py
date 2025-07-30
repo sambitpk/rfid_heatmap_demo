@@ -10,18 +10,28 @@ from streamlit_drawable_canvas import st_canvas
 LAYOUT_FOLDER = "floor_layouts"
 DATA_FOLDER = "floor_data"
 FLOORS = {
-    "Basement": "basement",
-    "Ground Floor CN-4": "ground",
-    "1st Floor": "floor_1",
-    "2nd Floor": "floor_2",
-    "3rd Floor": "floor_3",
-    "4th Floor": "floor_4",
-    "5th Floor": "floor_5",
-    "6th Floor": "floor_6",
-    "7th Floor": "floor_7",
-    "8th Floor": "floor_8",
-    "9th Floor": "floor_9",
-    "10th Floor": "floor_10"
+    "Basement CN-1": "basement",
+    "Ground Floor CN-1": "ground",
+    "1st Floor CN-1": "floor_1",
+    "2nd Floor CN-1": "floor_2",
+    "3rd Floor CN-1": "floor_3",
+    "4th Floor CN-1": "floor_4",
+    "5th Floor CN-1": "floor_5",
+    "6th Floor CN-1": "floor_6",
+    "7th Floor CN-1": "floor_7",
+    "8th Floor CN-1": "floor_8",
+    "9th Floor CN-1": "floor_9",
+    "Basement CN-1": "basement2",
+    "Ground Floor CN-1": "ground2",
+    "1st Floor CN-1": "floor2_1",
+    "2nd Floor CN-1": "floor2_2",
+    "3rd Floor CN-1": "floor2_3",
+    "4th Floor CN-1": "floor2_4",
+    "5th Floor CN-1": "floor2_5",
+    "6th Floor CN-1": "floor2_6",
+    "7th Floor CN-1": "floor2_7",
+    "8th Floor CN-1": "floor2_8",
+    "9th Floor CN-1": "floor2_9",
 }
 
 st.set_page_config(layout="wide")
