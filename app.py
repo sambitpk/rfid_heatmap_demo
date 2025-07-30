@@ -54,7 +54,7 @@ except Exception as e:
     st.error(f"Error loading layout or data: {e}")
     st.stop()
 
-r_px = int(150 * ppm)
+r_px = int(80 * ppm)
 
 # === VIEW MODE ===
 if mode == "View Heatmap":
